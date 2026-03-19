@@ -60,8 +60,6 @@ Charts are saved to the `charts/` folder automatically.
 | `06_hour_of_arrival.png` | Arrival pattern by hour of day |
 | `07_day_of_arrival.png` | Arrivals by day of week |
 | `08_anchorage_vs_berth_scatter.png` | Anchorage vs berth wait correlation |
-| `09_port_duration_boxplot.png` | Port duration spread by cargo type |
-| `10_monthly_berth_duration_stacked.png` | Monthly berth hours stacked by cargo |
 
 ---
 
